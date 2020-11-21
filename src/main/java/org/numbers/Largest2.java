@@ -2,7 +2,7 @@ package org.numbers;
 
 import java.util.Scanner;
 
-public class Largest {
+public class Largest2 {
     public static void main(String[] args) {
         //scanner class declaration
         Scanner sc = new Scanner(System.in);
