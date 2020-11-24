@@ -1,4 +1,4 @@
-package org.pattern;
+package org.pattern.diamond_star;
 
 import java.util.Scanner;
 

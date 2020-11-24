@@ -1,4 +1,4 @@
-package org.pattern;
+package org.pattern.pyramid_star;
 
 public class RightangledTriangle {
 
